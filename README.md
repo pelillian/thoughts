@@ -1,1 +1,3 @@
 # thoughts
+
+Musings, ideas, ramblings.
